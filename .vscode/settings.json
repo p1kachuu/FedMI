@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "D:\\Anaconda\\envs\\python35\\python.exe",
+    "python.analysis.disabled": [
+        "unresolved-import"
+    ],
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
